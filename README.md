@@ -11,6 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep309)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Sandeep309" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&border_radius=0&theme=dark" alt="Sandeep309" height="139" />
 <!--
 **Sandeep309/Sandeep309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
