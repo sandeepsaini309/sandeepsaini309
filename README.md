@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">  Hi there</h1>
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">  Hi I'm Sandeep Saini</h1>
 
-<h3>I'm a Fronted Web Developer focuses on writing clean, elegant and efficient code.</h3>
+<h3>A Fronted Web Developer focuses on writing clean, elegant and efficient code.</h3>
 
 <h3>Currently working at BWI</i></h3>
 
