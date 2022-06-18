@@ -18,7 +18,7 @@
 <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> -->
   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=c3002f" alt="angular" />
+<img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
 <img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=003eaa" alt="ionic" />
 <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> -->
 <!-- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/> -->
