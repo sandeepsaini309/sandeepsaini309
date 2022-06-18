@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there
 
 <h3>I'm a Fronted Web Developer focuses on writing clean, elegant and efficient code.</h3>
 
