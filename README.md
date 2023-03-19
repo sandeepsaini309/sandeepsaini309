@@ -35,11 +35,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=github-dark)](https://git.io/streak-stats)
 
-## 😂 Here is a random joke that'll make you laugh!
+😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
 
 <!-- [![Sandeep309 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep309)](https://github.com/Sandeep309/github-readme-stats) -->
 <!--
