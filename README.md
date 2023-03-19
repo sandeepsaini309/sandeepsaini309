@@ -36,7 +36,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=github-dark)](https://git.io/streak-stats)
 
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&hide_progress=true&theme=github-dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&hide_progress=true&theme=dark)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
