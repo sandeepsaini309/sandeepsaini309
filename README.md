@@ -35,12 +35,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=github-dark)](https://git.io/streak-stats)
 
-## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&hide_progress=true&theme=dark)
-
-## 😂 Here is a random joke that'll make you laugh!
+<h3>😂 Here is a random joke that'll make you laugh!</h3>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<!-- ## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&hide_progress=true&theme=dark)
+ -->
+ 
 <!-- [![Sandeep309 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep309)](https://github.com/Sandeep309/github-readme-stats) -->
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Sandeep309" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&border_radius=0&theme=dark" alt="Sandeep309" height="139" /> -->
