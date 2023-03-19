@@ -35,11 +35,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=github-dark)](https://git.io/streak-stats)
 
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&theme=blue-green)
-
-## Random Joke Generator
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- [![Sandeep309 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep309)](https://github.com/Sandeep309/github-readme-stats) -->
 <!--
