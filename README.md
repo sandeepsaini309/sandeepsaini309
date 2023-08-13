@@ -36,13 +36,14 @@
 <p>
 <a>
 <!-- GitHub Streak -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
+<img width="50%" height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
 </a>
 
-<a>
-<!-- Sandeep309 GitHub stats -->
+<img width="50%" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&border_radius=0&theme=dark" alt="Sandeep309"  />
+
+<!-- <a>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical">
-</a>
+</a> -->
 </p>
 
 ## Most Used Languages
@@ -51,8 +52,8 @@
 
 ![Sandeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sandeep309&hide_border=true&theme=redical)
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Sandeep309" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&border_radius=0&theme=dark" alt="Sandeep309" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Sandeep309" height="139"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&border_radius=0&theme=dark" alt="Sandeep309" height="139" />
 <!--
 **Sandeep309/Sandeep309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,4 +67,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
