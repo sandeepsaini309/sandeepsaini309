@@ -47,7 +47,7 @@
 
 ![Sandeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sandeep309&hide_border=true&theme=redical)
 <p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep309&theme=github-compact"> 
+<img height="145" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep309&theme=github-compact"> 
 </p>
 
 <p align="center">
