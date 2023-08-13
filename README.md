@@ -35,14 +35,14 @@
 
 <p align="center">
 <!-- GitHub Streak -->
-<img height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
+<img width="60" height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&theme=radical" alt="Sandeep309"  />
+<img width="40" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&theme=radical" alt="Sandeep309"  />
 
 <!-- <img height="145" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical"> -->
 </p>
 
-## Most Used Languages
+<!-- ## Most Used Languages -->
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&hide_progress=true&theme=dark) -->
 
