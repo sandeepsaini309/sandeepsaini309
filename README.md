@@ -35,6 +35,8 @@
 
 <a align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=github-dark)](https://git.io/streak-stats)
+</a>
+<a align="center">
 [![Sandeep309 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep309&theme=github-dark)](https://github.com/Sandeep309/github-readme-stats)
 </a>
 
