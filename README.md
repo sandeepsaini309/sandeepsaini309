@@ -36,10 +36,10 @@
 <p>
 <a>
 <!-- GitHub Streak -->
-<img width="50%" height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
+<img align="center" width="48%" height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
 </a>
 
-<img width="50%" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&border_radius=0&theme=dark" alt="Sandeep309"  />
+<img align="center" width="48%" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&border_radius=0&theme=dark" alt="Sandeep309"  />
 
 <!-- <a>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical">
