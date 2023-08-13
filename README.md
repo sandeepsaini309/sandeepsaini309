@@ -46,3 +46,10 @@
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&hide_progress=true&theme=dark) -->
 
 ![Sandeep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sandeep309&hide_border=true&theme=redical)
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep309"> 
+</p>
+
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
