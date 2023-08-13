@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/sandeep309/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
