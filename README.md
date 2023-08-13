@@ -8,7 +8,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
-<img src="https://img.shields.io/badge/Ionic-3880ff?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic"/>
 <img src="https://img.shields.io/badge/firebase-ffcb2e?style=for-the-badge&logo=ionic&logoColor=black" alt="firebase" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
@@ -35,9 +34,9 @@
 
 <p align="center">
 <!-- GitHub Streak -->
-<img width="60%" height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
+<img width="48%" height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
 
-<img width="40%" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&theme=radical" alt="Sandeep309"  />
+<img width="48%" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&theme=radical" alt="Sandeep309"  />
 
 <!-- <img height="145" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical"> -->
 </p>
