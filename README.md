@@ -33,20 +33,20 @@
 
 <h3><img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/> GitHub's Stats</h3>
 
-<a align="center">
+<a>
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=github-dark">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=github-dark">
 </a>
 
-<a align="center">
+<a>
 <!-- Sandeep309 GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sandeep309&theme=github-dark">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical">
 </a>
 
 ## Most Used Languages
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&hide_progress=true&theme=dark)
- 
- 
+
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Sandeep309" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&border_radius=0&theme=dark" alt="Sandeep309" height="139" /> -->
 <!--
