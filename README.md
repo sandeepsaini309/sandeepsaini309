@@ -35,9 +35,9 @@
 
 <p align="center">
 <!-- GitHub Streak -->
-<img width="48%" height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
+<img height="145" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&theme=radical">
 
-<img width="48%" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&theme=radical" alt="Sandeep309"  />
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&theme=radical" alt="Sandeep309"  />
 
 <!-- <a>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical">
