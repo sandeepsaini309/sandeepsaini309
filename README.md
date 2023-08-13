@@ -39,9 +39,7 @@
 
 <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&theme=radical" alt="Sandeep309"  />
 
-<!-- <a>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical">
-</a> -->
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical">
 </p>
 
 ## Most Used Languages
