@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/sandeep-saini-2b2382135" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sandeep saini" />
 </a>
-<a title="sandeepsaini6237@gmail.com" href="mailto:sandeepsaini6237@gmail.com" target="_blank">
+<a title="connectwithsandeepsaini@gmail.com" href="mailto:connectwithsandeepsaini@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sandeep saini" />
 </a> 
 </p>
