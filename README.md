@@ -39,11 +39,11 @@
 <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical"> -->
 </p>
 
-## Sandeep's GitHub activity graph
+<!-- ## Sandeep's GitHub activity graph
 
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep309&theme=github-compact&hide_border=true"> 
-</p>
+</p> -->
 
 <!-- <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
