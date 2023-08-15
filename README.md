@@ -1,10 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">  Hi I'm Sandeep Saini</h1>
 
 <h3>
-<!-- A Front End Developer focuses on writing clean, elegant and efficient code. -->
-
-A Front End Developer specializes in producing code that is both polished and efficient, prioritizing cleanliness, elegance, and optimal performance.
-
+A Front End Developer specializes in writing clean, elegant and efficient code.
 </h3>
 
 <h3>
