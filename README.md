@@ -40,17 +40,14 @@ Let's Connect
 GitHub's Stats
 </h3>
 
-<p align="center">
+<div align="center">
 <!-- GitHub Streak -->
 <img width="48%" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical">
 
 <img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  />
 
 <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical"> -->
-</p>
-<!-- <div>
-![snake gif](https://github.com/Sandeep309/Sandeep309/blob/output/github-snake-dark.svg)
-</div> -->
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeep309/sandeep309/output/github-contribution-grid-snake-dark.svg">
