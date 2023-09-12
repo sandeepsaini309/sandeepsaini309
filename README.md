@@ -49,8 +49,7 @@ GitHub's Stats
 <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical"> -->
 </p>
 <div>
-<!--    ![snake gif] -->
-    https://github.com/sandeep309/sandeep309/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/sandeep309/sandeep309/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <!-- ## Sandeep's GitHub activity graph
