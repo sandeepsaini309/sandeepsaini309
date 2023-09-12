@@ -48,9 +48,15 @@ GitHub's Stats
 
 <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical"> -->
 </p>
-<div>
+<!-- <div>
 ![snake gif](https://github.com/Sandeep309/Sandeep309/blob/output/github-contribution-grid-snake.gif)
-</div>
+</div> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- ## Sandeep's GitHub activity graph
 
