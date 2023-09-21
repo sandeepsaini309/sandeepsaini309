@@ -45,7 +45,6 @@ GitHub's Stats
 <img width="48%" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical">
 
 <img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  />
-<img width="48%" height="150" src="https://streak-stats.demolab.com?user=sandeep309&theme=radical&hide_border=true" alt="Sandeep309"  />
 
 <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical"> -->
 </p>
