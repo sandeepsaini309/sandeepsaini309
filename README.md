@@ -41,12 +41,4 @@ I am a Full-Stack Developer who writes clean, elegant, and efficient code.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sandeep309/sandeep309/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Sandeep's GitHub activity graph
 
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep309&theme=github-compact&hide_border=true">
-</p>
-
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
