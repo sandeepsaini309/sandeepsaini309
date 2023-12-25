@@ -1,6 +1,6 @@
 ## 👋 Hello I'm Sandeep Saini
 
-I am a Full-Stack Developer who writes clean, elegant, and efficient code.
+👩🏻‍💻 I am a Full-Stack Developer who writes clean, elegant, and efficient code.
 
 ### Currently I am working with ...
 
@@ -30,7 +30,7 @@ I am a Full-Stack Developer who writes clean, elegant, and efficient code.
 <a href="mailto:connectwithsandeepsaini@gmail.com" target="_blank" title="connectwithsandeepsaini@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sandeepsaini309/" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### GitHub Stats
+### GitHub Stats ...
 
 <img width="50%" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical&mode=weekly">
 <!-- <p> -->
