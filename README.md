@@ -1,39 +1,24 @@
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">  Hi I'm Sandeep Saini</h1>
 
-<h3>
-A Full Stack Developer specializes in writing clean, elegant and efficient code.
-</h3>
+I am a fullstack developer who specializes in writing clean, elegant, and efficient code.
 
-<h3>
-Tech Stack
-</h3>
+### Currently I am working with ...
 
-<p>
-<img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/firebase-ffcb2e?style=for-the-badge&logo=ionic&logoColor=black" alt="firebase" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> -->
-<!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> -->
-</p>
+<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<h3>
-Let's Connect
-</h3>
+### You can also find me on ...
 
-<p>
-<a href="https://www.linkedin.com/in/sandeep-saini-2b2382135" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sandeep saini" />
-</a>
-<a title="connectwithsandeepsaini@gmail.com" href="mailto:connectwithsandeepsaini@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sandeep saini" />
-</a> 
-</p>
+<a href="https://www.linkedin.com/in/sandeepsaini309/" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/sandeepsaini309/" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="mailto:connectwithsandeepsaini@gmail.com" target="_blank" title="connectwithsandeepsaini@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+
 
 <h3>
 <!-- <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/>  -->
