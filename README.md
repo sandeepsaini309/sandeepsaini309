@@ -31,8 +31,8 @@ I am a Full-Stack Developer who writes clean, elegant, and efficient code.
 
 ### GitHub's Stats
 <p>
-<img width="48%" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical&mode=weekly">
-<img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical&mode=weekly" width="48%" height="150">
+<!-- <img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  /> -->
 </p>
 
 <picture>
