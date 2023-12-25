@@ -27,10 +27,11 @@ I am a Full-Stack Developer who writes clean, elegant, and efficient code.
 <a href="mailto:connectwithsandeepsaini@gmail.com" target="_blank" title="connectwithsandeepsaini@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 ### GitHub's Stats
-
+<p>
 <img width="48%" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical&mode=weekly">
 <img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  />
 <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical"> -->
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeep309/sandeep309/output/github-contribution-grid-snake-dark.svg">
