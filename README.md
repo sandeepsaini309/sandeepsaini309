@@ -25,11 +25,11 @@ I am a Full-Stack Developer who writes clean, elegant, and efficient code.
 
 ### You can also find me on ...
 
-<a href="https://www.linkedin.com/in/sandeepsaini309/" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sandeepsaini309/" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>
+<a href="mailto:connectwithsandeepsaini@gmail.com" target="_blank" title="connectwithsandeepsaini@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sandeepsaini309/" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:connectwithsandeepsaini@gmail.com" target="_blank" title="connectwithsandeepsaini@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
-### GitHub's Stats
+### GitHub Stats
 <img width="50%" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical&mode=weekly">
 <p>
 <!-- <img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  /> -->
@@ -41,12 +41,12 @@ I am a Full-Stack Developer who writes clean, elegant, and efficient code.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sandeep309/sandeep309/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- ## Sandeep's GitHub activity graph
+## Sandeep's GitHub activity graph
 
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep309&theme=github-compact&hide_border=true">
-</p> -->
+</p>
 
-<!-- <p align="center">
+<p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p> -->
+</p>
