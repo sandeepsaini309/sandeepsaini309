@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">  Hi I'm Sandeep Saini</h1>
+### 👋 I'm Sandeep Saini
 
 I am a Full-Stack Developer who writes clean, elegant, and efficient code.
 
