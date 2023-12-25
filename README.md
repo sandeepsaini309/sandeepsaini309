@@ -8,8 +8,9 @@ I am a Full-Stack Developer who writes clean, elegant, and efficient code.
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="firebase" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="HTML" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="CSS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="HTML" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="CSS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="bootstrap" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
@@ -30,7 +31,6 @@ I am a Full-Stack Developer who writes clean, elegant, and efficient code.
 <p>
 <img width="48%" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical&mode=weekly">
 <img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  />
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Sandeep309&show_icons=true&theme=radical">
 </p>
 
 <picture>
