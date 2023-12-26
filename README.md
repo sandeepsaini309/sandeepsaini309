@@ -38,7 +38,7 @@
 <!-- <img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  /> -->
 <!-- </p> -->
 
-### GitHub Activity Graph ...
+### My Activity Graph ...
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeep309/sandeep309/output/github-contribution-grid-snake-dark.svg">
