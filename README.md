@@ -24,7 +24,14 @@
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### You can also find me on ...
+<!--
+### I have also worked with ...
+<a href="" target="_blank" title="Php" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="Php" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="PhpMyAdmin" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="PhpMyAdmin" width="30" height="30"/></a>&nbsp;&nbsp;
+-->
+
+### You can find me on ...
 
 <a href="https://www.linkedin.com/in/sandeepsaini309/" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:connectwithsandeepsaini@gmail.com" target="_blank" title="connectwithsandeepsaini@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
