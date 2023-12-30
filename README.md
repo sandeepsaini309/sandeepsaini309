@@ -12,6 +12,7 @@
 <a href="" target="_blank" title="IonicFramework" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="IonicFramework" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="HTML" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="CSS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Sass" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Bootstrap" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
