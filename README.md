@@ -41,13 +41,6 @@
 <a href="https://www.instagram.com/sandeepsaini309/" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://codepen.io/sandeepsaini309" title="sandeepsaini309" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<!-- ### GitHub Stats ... -->
-
-<!-- <img width="50%" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep309&hide_border=true&theme=radical&mode=weekly"> -->
-<!-- <p> -->
-<!-- <img width="48%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep309&layout=compact&hide_border=true&theme=radical" alt="Sandeep309"  /> -->
-<!-- </p> -->
-
 ### My Activity Graph ...
 
 <picture>
@@ -55,5 +48,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeep309/sandeep309/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sandeep309/sandeep309/output/github-contribution-grid-snake.svg">
 </picture>
-
-
