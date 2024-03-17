@@ -1,6 +1,6 @@
 ## 👋 Hello I'm Sandeep Saini
 
-👩🏻‍💻 A Passionate Software Engineer, I bring a passion for crafting high-caliber solutions to any project.
+👩🏻‍💻 A passionate Software Engineer, I bring a passion for crafting high-caliber solutions to any project.
 
 <!--
 Hello! I'm Sandeep Saini, a meticulous Software Engineer deeply committed to ensuring top-notch code quality. Joining your team would be an honor, given my dedication to excellence. Currently seeking new opportunities, I bring a passion for crafting high-caliber solutions to any project.
