@@ -1,6 +1,6 @@
 ## 👋 Hello I'm Sandeep Saini
 
-👩🏻‍💻 A passionate Software Engineer.
+👩🏻‍💻 A Passionate Software Engineer.
 
 ### Currently I am working with ...
 
