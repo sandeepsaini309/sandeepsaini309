@@ -1,6 +1,6 @@
 ## 👋 Hello I'm Sandeep Saini
 
-👩🏻‍💻 I am a Full-Stack Developer who writes clean, elegant, and efficient code.
+👩🏻‍💻 A passionate Software Engineer.
 
 ### Currently I am working with ...
 
