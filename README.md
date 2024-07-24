@@ -17,7 +17,7 @@
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### I am also learning ...
+### I am currently learning ...
 
 <a href="" target="_blank" title="Reactjs" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="NodeJs" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJs" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -27,12 +27,11 @@
 <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<!--
 ### I have also worked with ...
+
 <a href="" target="_blank" title="Php" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="Php" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="PhpMyAdmin" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="PhpMyAdmin" width="30" height="30"/></a>&nbsp;&nbsp;
--->
 
 ### You can find me on ...
 
